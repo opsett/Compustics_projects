@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SharedResx_NetCore">
+      <HintPath>..\..\..\..\Visual Studio Project\PayPattern(CoreStandard)\SharedResx_NetCore\bin\Debug\netcoreapp3.1\SharedResx_NetCore.dll</HintPath>
+    </Reference>
+    <Reference Include="SharedResx_NetStandard">
+      <HintPath>..\..\..\..\Visual Studio Project\PayPattern(CoreStandard)\SharedResx_NetStandard\bin\Debug\netstandard2.1\SharedResx_NetStandard.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ViewsDatagrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+</Project>

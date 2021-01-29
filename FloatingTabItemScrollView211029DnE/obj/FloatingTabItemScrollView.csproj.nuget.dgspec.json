@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\1st Folder\\Githup_Repository\\Compustics_projects\\FloatingTabItemScrollView211029DnE\\FloatingTabItemScrollView.csproj": {}
+  },
+  "projects": {
+    "C:\\1st Folder\\Githup_Repository\\Compustics_projects\\FloatingTabItemScrollView211029DnE\\FloatingTabItemScrollView.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\1st Folder\\Githup_Repository\\Compustics_projects\\FloatingTabItemScrollView211029DnE\\FloatingTabItemScrollView.csproj",
+        "projectName": "FloatingTabItemScrollView",
+        "projectPath": "C:\\1st Folder\\Githup_Repository\\Compustics_projects\\FloatingTabItemScrollView211029DnE\\FloatingTabItemScrollView.csproj",
+        "packagesPath": "C:\\Users\\SysAdmin\\.nuget\\packages\\",
+        "outputPath": "C:\\1st Folder\\Githup_Repository\\Compustics_projects\\FloatingTabItemScrollView211029DnE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SysAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetCore\\SharedResx_NetCore.csproj": {
+                "projectPath": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetCore\\SharedResx_NetCore.csproj"
+              },
+              "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\SharedResx_NetStandard.csproj": {
+                "projectPath": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\SharedResx_NetStandard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetCore\\SharedResx_NetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetCore\\SharedResx_NetCore.csproj",
+        "projectName": "SharedResx_NetCore",
+        "projectPath": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetCore\\SharedResx_NetCore.csproj",
+        "packagesPath": "C:\\Users\\SysAdmin\\.nuget\\packages\\",
+        "outputPath": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SysAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\SharedResx_NetStandard.csproj": {
+                "projectPath": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\SharedResx_NetStandard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DeviceDetector.NET": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\SharedResx_NetStandard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\SharedResx_NetStandard.csproj",
+        "projectName": "SharedResx_NetStandard",
+        "projectPath": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\SharedResx_NetStandard.csproj",
+        "packagesPath": "C:\\Users\\SysAdmin\\.nuget\\packages\\",
+        "outputPath": "C:\\1st Folder\\Visual Studio Project\\PayPattern(CoreStandard)\\SharedResx_NetStandard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SysAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "PresentationBase.Core": {
+              "target": "Package",
+              "version": "[3.4.0-preview, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
